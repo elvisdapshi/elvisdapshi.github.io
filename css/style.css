@@ -769,7 +769,7 @@ textarea.input {
 	}
 
 	#reservation .bg_image {
-		background-image:url(./img/back1_small.jpg) !important ;
+		background-image:url(../img/back1_small.jpg) !important ;
 	}
 	/* --- contact --- */
 	#contact.section {
