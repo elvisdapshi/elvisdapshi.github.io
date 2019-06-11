@@ -764,11 +764,11 @@ textarea.input {
 	#home .bg-image {
 		background-image:url(../img/back2_small.jpg) !important; 
 	}
-	#menu .bg_image {
+	#menu .bg-image {
 		background-image:url(../img/cover-small.jpg) !important ;
 	}
 
-	#reservation .bg_image {
+	#reservation .bg-image {
 		background-image:url(../img/back1-small.jpg) !important ;
 	}
 	/* --- contact --- */
