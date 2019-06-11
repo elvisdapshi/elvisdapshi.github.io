@@ -763,16 +763,13 @@ textarea.input {
 
 	#home .bg-image {
 		background-image:url(../img/back2_small.jpg) !important; 
-		background-size: contain;
 	}
 	#menu .bg_image {
 		background-image:url(../img/cover_small.jpg) !important ;
-		background-size: contain;
 	}
 
 	#reservation .bg_image {
 		background-image:url(./img/back1_small.jpg) !important ;
-		background-size: contain;
 	}
 	/* --- contact --- */
 	#contact.section {
