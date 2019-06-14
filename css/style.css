@@ -762,15 +762,17 @@ textarea.input {
 	}
 
 	#home .bg-image {
-		background-image:url(../img/back2_small.jpg) !important; 
+		background-image:url(../img/back1_small.jpg) !important; 
 	}
+
 	#menu .bg-image {
-		background-image:url(../img/cover_small.jpg) !important ;
+		background-image:url(../img/back2_small.jpg) !important;
 	}
 
 	#reservation .bg-image {
-		background-image:url(../img/back1_small.jpg) !important ;
+		background-image:url(../img/back3_small.jpg) !important;
 	}
+	
 	/* --- contact --- */
 	#contact.section {
 		padding-bottom:0px;
